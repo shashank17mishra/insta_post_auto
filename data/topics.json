@@ -1,0 +1,162 @@
+[
+  {
+    "id": "sql-group-by",
+    "topic": "SQL GROUP BY Clause",
+    "category": "SQL",
+    "difficulty": "beginner",
+    "priority": 100,
+    "status": "pending"
+  },
+  {
+    "id": "sql-having",
+    "topic": "SQL HAVING Clause",
+    "category": "SQL",
+    "difficulty": "beginner",
+    "priority": 95,
+    "status": "pending"
+  },
+  {
+    "id": "sql-order-by",
+    "topic": "SQL ORDER BY",
+    "category": "SQL",
+    "difficulty": "beginner",
+    "priority": 90,
+    "status": "pending"
+  },
+  {
+    "id": "sql-join",
+    "topic": "SQL JOIN",
+    "category": "SQL",
+    "difficulty": "intermediate",
+    "priority": 92,
+    "status": "pending"
+  },
+  {
+    "id": "math-cayley-hamilton",
+    "topic": "Cayley-Hamilton Theorem",
+    "category": "Mathematics",
+    "difficulty": "intermediate",
+    "priority": 98,
+    "status": "pending"
+  },
+  {
+    "id": "math-eigenvalues",
+    "topic": "Eigenvalues and Eigenvectors",
+    "category": "Mathematics",
+    "difficulty": "intermediate",
+    "priority": 94,
+    "status": "pending"
+  },
+  {
+    "id": "math-matrix-diag",
+    "topic": "Matrix Diagonalization",
+    "category": "Mathematics",
+    "difficulty": "advanced",
+    "priority": 88,
+    "status": "pending"
+  },
+  {
+    "id": "py-lists",
+    "topic": "Python Lists",
+    "category": "Python",
+    "difficulty": "beginner",
+    "priority": 85,
+    "status": "pending"
+  },
+  {
+    "id": "py-dictionaries",
+    "topic": "Python Dictionaries",
+    "category": "Python",
+    "difficulty": "beginner",
+    "priority": 84,
+    "status": "pending"
+  },
+  {
+    "id": "py-functions",
+    "topic": "Python Functions",
+    "category": "Python",
+    "difficulty": "beginner",
+    "priority": 83,
+    "status": "pending"
+  },
+  {
+    "id": "dbms-normalization",
+    "topic": "DBMS Normalization",
+    "category": "DBMS",
+    "difficulty": "intermediate",
+    "priority": 89,
+    "status": "pending"
+  },
+  {
+    "id": "os-process-vs-thread",
+    "topic": "Operating System Process vs Thread",
+    "category": "Operating Systems",
+    "difficulty": "intermediate",
+    "priority": 87,
+    "status": "pending"
+  },
+  {
+    "id": "cn-tcp-vs-udp",
+    "topic": "TCP vs UDP",
+    "category": "Computer Networks",
+    "difficulty": "intermediate",
+    "priority": 86,
+    "status": "pending"
+  },
+  {
+    "id": "algo-binary-search",
+    "topic": "Binary Search",
+    "category": "Algorithms",
+    "difficulty": "beginner",
+    "priority": 85,
+    "status": "pending"
+  },
+  {
+    "id": "ml-linear-regression",
+    "topic": "Linear Regression",
+    "category": "Machine Learning",
+    "difficulty": "beginner",
+    "priority": 82,
+    "status": "pending"
+  },
+  {
+    "id": "ml-decision-trees",
+    "topic": "Decision Trees",
+    "category": "Machine Learning",
+    "difficulty": "intermediate",
+    "priority": 81,
+    "status": "pending"
+  },
+  {
+    "id": "ds-confusion-matrix",
+    "topic": "Confusion Matrix",
+    "category": "Data Science",
+    "difficulty": "intermediate",
+    "priority": 80,
+    "status": "pending"
+  },
+  {
+    "id": "ml-overfitting-underfitting",
+    "topic": "Overfitting vs Underfitting",
+    "category": "Machine Learning",
+    "difficulty": "beginner",
+    "priority": 79,
+    "status": "pending"
+  },
+  {
+    "id": "ml-supervised-unsupervised",
+    "topic": "Supervised vs Unsupervised Learning",
+    "category": "Machine Learning",
+    "difficulty": "beginner",
+    "priority": 78,
+    "status": "pending"
+  },
+  {
+    "id": "algo-big-o",
+    "topic": "Big O Notation",
+    "category": "Algorithms",
+    "difficulty": "beginner",
+    "priority": 91,
+    "status": "pending"
+  }
+]

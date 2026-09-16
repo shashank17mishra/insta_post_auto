@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>StudyNotes AutoPoster | Instagram Automation</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <!-- Top Navigation Header -->
+  <header class="app-header">
+    <div class="brand">
+      <div class="logo-badge">📝</div>
+      <div>
+        <h1>StudyNotes <span>AutoPoster</span></h1>
+        <p class="tagline">Automated Handwritten Study Notes for Instagram</p>
+      </div>
+    </div>
+    <div class="header-status">
+      <span id="geminiBadge" class="badge badge-gray">Gemini: Checking...</span>
+      <span id="instaBadge" class="badge badge-gray">Instagram: Checking...</span>
+      <span id="dryRunBadge" class="badge badge-amber">Dry Run Active</span>
+    </div>
+  </header>
+
+  <!-- Main Container with Sidebar & Content -->
+  <div class="app-layout">
+    <!-- Sidebar Navigation -->
+    <nav class="sidebar">
+      <button class="nav-btn active" data-tab="overview">
+        <span class="icon">📊</span> Overview
+      </button>
+      <button class="nav-btn" data-tab="topics">
+        <span class="icon">📚</span> Topics Queue
+      </button>
+      <button class="nav-btn" data-tab="drafts">
+        <span class="icon">🖼️</span> Drafts & Review
+      </button>
+      <button class="nav-btn" data-tab="published">
+        <span class="icon">🚀</span> Published Posts
+      </button>
+      <button class="nav-btn" data-tab="settings">
+        <span class="icon">⚙️</span> Settings
+      </button>
+    </nav>
+
+    <!-- Main Content Area -->
+    <main class="content-panel">
+      <!-- 1. OVERVIEW TAB -->
+      <section id="tab-overview" class="tab-pane active">
+        <div class="page-heading">
+          <h2>Dashboard Overview</h2>
+          <button id="quickGenerateBtn" class="btn btn-primary">
+            ⚡ Generate Next Topic
+          </button>
+        </div>
+
+        <!-- Metrics Grid -->
+        <div class="stats-grid">
+          <div class="stat-card">
+            <span class="stat-label">Total Topics</span>
+            <span id="statTotalTopics" class="stat-val">0</span>
+            <span class="stat-desc">Seeded in database</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">Pending Queue</span>
+            <span id="statPendingTopics" class="stat-val text-amber">0</span>
+            <span class="stat-desc">Ready for generation</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">Drafts Awaiting Review</span>
+            <span id="statDraftPosts" class="stat-val text-blue">0</span>
+            <span class="stat-desc">Generated note cards</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">Approved</span>
+            <span id="statApprovedPosts" class="stat-val text-purple">0</span>
+            <span class="stat-desc">Ready to publish</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">Published</span>
+            <span id="statPublishedPosts" class="stat-val text-green">0</span>
+            <span class="stat-desc">Live on Instagram</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">Failed</span>
+            <span id="statFailedPosts" class="stat-val text-red">0</span>
+            <span class="stat-desc">Errors or retries</span>
+          </div>
+        </div>
+
+        <!-- System Pipeline Cards -->
+        <div class="pipeline-section">
+          <h3>Automated Production Pipeline</h3>
+          <div class="pipeline-flow">
+            <div class="flow-step">
+              <span class="step-num">1</span>
+              <h4>Topic Selection</h4>
+              <p>Prioritized selection by category & difficulty</p>
+            </div>
+            <div class="flow-arrow">→</div>
+            <div class="flow-step">
+              <span class="step-num">2</span>
+              <h4>Gemini 3.8 Flash</h4>
+              <p>Accurate structured exam note generation</p>
+            </div>
+            <div class="flow-arrow">→</div>
+            <div class="flow-step">
+              <span class="step-num">3</span>
+              <h4>Handwritten Renderer</h4>
+              <p>Pillow, Matplotlib LaTeX & notebook canvas</p>
+            </div>
+            <div class="flow-arrow">→</div>
+            <div class="flow-step">
+              <span class="step-num">4</span>
+              <h4>Quality Check</h4>
+              <p>Automated 1080x1350 & contrast validation</p>
+            </div>
+            <div class="flow-arrow">→</div>
+            <div class="flow-step">
+              <span class="step-num">5</span>
+              <h4>Meta Graph API</h4>
+              <p>Official carousel container publishing</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- 2. TOPICS TAB -->
+      <section id="tab-topics" class="tab-pane">
+        <div class="page-heading">
+          <h2>Educational Topics Queue</h2>
+          <div class="action-bar">
+            <select id="categoryFilter" class="select-input">
+              <option value="">All Categories</option>
+            </select>
+            <button id="openNewTopicModal" class="btn btn-secondary">+ Add Topic</button>
+          </div>
+        </div>
+        <div class="card table-card">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Priority</th>
+                <th>Topic Name</th>
+                <th>Category</th>
+                <th>Difficulty</th>
+                <th>Status</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody id="topicsTableBody">
+              <tr><td colspan="6" class="text-center">Loading topics...</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- 3. DRAFTS & REVIEW TAB -->
+      <section id="tab-drafts" class="tab-pane">
+        <div class="page-heading">
+          <h2>Carousel Drafts & Visual Review</h2>
+          <button id="refreshDraftsBtn" class="btn btn-secondary">🔄 Refresh</button>
+        </div>
+        <div id="draftsListContainer" class="drafts-grid">
+          <!-- Populated by JavaScript -->
+        </div>
+      </section>
+
+      <!-- 4. PUBLISHED POSTS TAB -->
+      <section id="tab-published" class="tab-pane">
+        <div class="page-heading">
+          <h2>Published Posts Archive</h2>
+          <button id="refreshPublishedBtn" class="btn btn-secondary">🔄 Refresh</button>
+        </div>
+        <div id="publishedListContainer" class="drafts-grid">
+          <!-- Populated by JavaScript -->
+        </div>
+      </section>
+
+      <!-- 5. SETTINGS TAB -->
+      <section id="tab-settings" class="tab-pane">
+        <div class="page-heading">
+          <h2>System Settings & Automation</h2>
+          <button id="saveSettingsBtn" class="btn btn-primary">Save Changes</button>
+        </div>
+        <div class="card settings-card">
+          <div class="form-group">
+            <label>Environment Mode</label>
+            <input type="text" id="settingEnv" disabled class="text-input disabled">
+          </div>
+          <div class="form-group">
+            <label>AI Model</label>
+            <input type="text" id="settingModel" disabled class="text-input disabled">
+            <small class="hint">Model: Google Gemini 3.8 Flash</small>
+          </div>
+          <div class="form-group">
+            <label>Instagram Publish Enabled</label>
+            <div class="toggle-wrapper">
+              <input type="checkbox" id="settingPublishEnabled">
+              <label for="settingPublishEnabled" class="toggle-label"></label>
+              <span id="publishEnabledText" class="toggle-desc">Disabled (Draft & dry-run only)</span>
+            </div>
+            <small class="hint">When disabled, notes are generated and validated without publishing to live Instagram.</small>
+          </div>
+          <div class="form-group">
+            <label>Dry Run Mode</label>
+            <div class="toggle-wrapper">
+              <input type="checkbox" id="settingDryRun">
+              <label for="settingDryRun" class="toggle-label"></label>
+              <span id="dryRunText" class="toggle-desc">Active (Simulates containers & publication)</span>
+            </div>
+            <small class="hint">Keep enabled to safely test container and media creation without making real Meta API calls.</small>
+          </div>
+          <div class="form-group">
+            <label>Daily Posting Schedule (Cron Expression)</label>
+            <input type="text" id="settingCron" class="text-input" placeholder="0 12 * * *">
+            <small class="hint">Standard 5-part cron syntax. Default: '0 12 * * *' (Every day at 12:00 UTC).</small>
+          </div>
+          <div class="form-group">
+            <label>Public Base URL</label>
+            <input type="text" id="settingPublicUrl" disabled class="text-input disabled">
+            <small class="hint">Used by Meta servers to download slide images.</small>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <!-- Image Preview Modal -->
+  <div id="imageModal" class="modal">
+    <div class="modal-content modal-image-content">
+      <button class="modal-close" onclick="closeModal('imageModal')">&times;</button>
+      <img id="modalImage" src="" alt="Full Preview">
+    </div>
+  </div>
+
+  <!-- Add Topic Modal -->
+  <div id="newTopicModal" class="modal">
+    <div class="modal-content">
+      <button class="modal-close" onclick="closeModal('newTopicModal')">&times;</button>
+      <h3>Add New Study Topic</h3>
+      <form id="newTopicForm">
+        <div class="form-group">
+          <label>Topic Title</label>
+          <input type="text" id="newTopicName" required class="text-input" placeholder="e.g. Dijkstra's Algorithm">
+        </div>
+        <div class="form-group">
+          <label>Category</label>
+          <input type="text" id="newTopicCategory" required class="text-input" placeholder="e.g. Algorithms">
+        </div>
+        <div class="form-group">
+          <label>Difficulty</label>
+          <select id="newTopicDifficulty" class="select-input">
+            <option value="beginner">Beginner</option>
+            <option value="intermediate" selected>Intermediate</option>
+            <option value="advanced">Advanced</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label>Priority (1-100)</label>
+          <input type="number" id="newTopicPriority" value="60" min="1" max="100" class="text-input">
+        </div>
+        <div class="form-actions">
+          <button type="button" class="btn btn-secondary" onclick="closeModal('newTopicModal')">Cancel</button>
+          <button type="submit" class="btn btn-primary">Save Topic</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- Toast Notification Container -->
+  <div id="toastContainer" class="toast-container"></div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

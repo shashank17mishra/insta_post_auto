@@ -1,0 +1,25 @@
+{
+  "post_id": 3,
+  "topic_id": "sql-group-by",
+  "topic": "SQL GROUP BY Clause",
+  "category": "SQL",
+  "title": "SQL Query Clauses & Grouping",
+  "pages": [
+    "page_01.png",
+    "page_02.png"
+  ],
+  "caption": "📚 SQL Clauses Explained Simply!\n\nSwipe to master GROUP BY, HAVING, ORDER BY, and TOP clauses with clean syntax and exam notes.\n\n💡 Quick Rule:\n• WHERE filters rows BEFORE grouping\n• HAVING filters groups AFTER grouping\n\nSave this post for quick revision before your technical interviews! 🔖\n\n#SQL #DBMS #Database #BTech #ComputerScience #SoftwareEngineering #DataEngineering\n\n#SQL #DBMS #Database #BTech #ComputerScience #Programming #DataEngineering #CodingInterview",
+  "hashtags": [
+    "#SQL",
+    "#DBMS",
+    "#Database",
+    "#BTech",
+    "#ComputerScience",
+    "#Programming",
+    "#DataEngineering",
+    "#CodingInterview"
+  ],
+  "content_hash": "3470e912d32162e59082a5758ae319d27f64686da31d3ac429f1b87e2529e67f",
+  "created_at": "2026-09-15T18:57:52.534755",
+  "status": "draft"
+}

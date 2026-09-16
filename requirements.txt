@@ -1,0 +1,21 @@
+# Core Framework & Settings
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.9.0
+pydantic-settings>=2.5.0
+python-dotenv>=1.0.1
+
+# AI & Generation
+google-genai>=1.0.0
+
+# Image Rendering & Mathematics
+pillow>=10.4.0
+matplotlib>=3.9.0
+
+# HTTP & Network
+httpx>=0.27.0
+
+# Testing & Quality
+pytest>=8.3.0
+pytest-asyncio>=0.24.0
+ruff>=0.6.0

@@ -1,0 +1,63 @@
+name: Publish Approved StudyNotes
+
+on:
+  schedule:
+    # Runs daily at 14:00 UTC (2 hours after generation)
+    - cron: '0 14 * * *'
+  workflow_dispatch:
+    inputs:
+      post_id:
+        description: 'Post ID to publish (Leave empty to publish earliest approved)'
+        required: false
+        default: ''
+      dry_run:
+        description: 'Simulate publication (Dry Run)'
+        type: boolean
+        default: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Publish Note to Instagram
+        env:
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          INSTAGRAM_USER_ID: ${{ secrets.INSTAGRAM_USER_ID }}
+          INSTAGRAM_PUBLISH_ENABLED: ${{ secrets.INSTAGRAM_PUBLISH_ENABLED || 'true' }}
+          DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
+          PUBLIC_BASE_URL: ${{ secrets.PUBLIC_BASE_URL || 'http://localhost:8000' }}
+        run: |
+          if [ -n "${{ github.event.inputs.post_id }}" ]; then
+            python -m scripts.publish_post --id ${{ github.event.inputs.post_id }} --force
+          else
+            python -c "
+          from app.database.repository import Repository
+          from app.instagram.publisher import instagram_publisher
+          repo = Repository()
+          approved = repo.list_posts(status='approved', limit=1)
+          if not approved:
+              print('No approved posts found ready for publication.')
+          else:
+              post = approved[0]
+              print(f'Publishing approved post #{post.id}...')
+              success, msg = instagram_publisher.publish_post(post.id)
+              print(f'Result: {msg}')
+              if not success:
+                  exit(1)
+          "
+          fi
