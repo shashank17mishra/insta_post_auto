@@ -66,12 +66,12 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main
           git add data/ generated/
           if git diff --staged --quiet; then
             echo "No new images to commit."
           else
             git commit -m "Add generated note images [skip ci]"
+            git pull --rebase origin main || true
             git push origin main
           fi
 
@@ -89,11 +89,11 @@ jobs:
 
       - name: 4. Sync Database & Published State
         run: |
-          git pull --rebase origin main
           git add data/ generated/
           if git diff --staged --quiet; then
             echo "No database changes to commit."
           else
             git commit -m "Update post published status [skip ci]"
+            git pull --rebase origin main || true
             git push origin main
           fi
