@@ -1,0 +1,31 @@
+{
+  "post_id": 11,
+  "topic_id": "math-eigenvalues",
+  "topic": "Eigenvalues and Eigenvectors",
+  "category": "Mathematics",
+  "title": "Eigenvalues & Eigenvectors: The Core of Linear Algebra",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png",
+    "page_04.png"
+  ],
+  "caption": "Dive deep into the heart of Linear Algebra with our comprehensive notes on Eigenvalues and Eigenvectors! 🚀 These fundamental concepts are crucial for understanding matrix transformations and have widespread applications from PCA to Quantum Mechanics. Whether you're prepping for GATE, university exams, or campus placements, mastering these topics is a game-changer. Swipe through for definitions, step-by-step examples, key properties, and the powerful Cayley-Hamilton Theorem! ✨\n\n💡 Save this post for your next study session! What's your favorite application of Eigenvalues? Let us know in the comments! 👇\n\n#Eigenvalues #Eigenvectors #LinearAlgebra #Mathematics #BTech #GATEPreparation #EngineeringNotes #ComputerScience #MathNotes #StudyTips #UniversityExams #MatrixTheory",
+  "hashtags": [
+    "#Eigenvalues",
+    "#Eigenvectors",
+    "#LinearAlgebra",
+    "#Mathematics",
+    "#BTech",
+    "#GATEPreparation",
+    "#EngineeringNotes",
+    "#ComputerScience",
+    "#MathNotes",
+    "#StudyTips",
+    "#UniversityExams",
+    "#MatrixTheory"
+  ],
+  "content_hash": "e3eb62bac3189d0cb14a1c13de977eee6755d4d80233834687c708adf2960f8e",
+  "created_at": "2026-09-16T19:54:50.640870+00:00",
+  "status": "draft"
+}
