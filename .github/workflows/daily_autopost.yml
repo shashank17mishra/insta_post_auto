@@ -46,36 +46,54 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run StudyNotes AutoPoster Pipeline
+      - name: 1. Generate Notes & Carousel Images
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-2.5-flash' }}
+        run: |
+          CMD="python -m scripts.generate_post"
+          if [ -n "${{ github.event.inputs.topic }}" ]; then
+            CMD="$CMD --topic \"${{ github.event.inputs.topic }}\""
+          elif [ -n "${{ github.event.inputs.category }}" ]; then
+            CMD="$CMD --category \"${{ github.event.inputs.category }}\""
+          else
+            CMD="$CMD --next"
+          fi
+          echo "Executing generation: $CMD"
+          eval $CMD
+
+      - name: 2. Commit & Push Images (Makes Images Live for Meta)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
+          git add data/ generated/
+          if git diff --staged --quiet; then
+            echo "No new images to commit."
+          else
+            git commit -m "Add generated note images [skip ci]"
+            git push origin main
+          fi
+
+      - name: 3. Publish Note Carousel Live to Instagram
+        env:
           INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
           INSTAGRAM_USER_ID: ${{ secrets.INSTAGRAM_USER_ID }}
           META_APP_ID: ${{ secrets.META_APP_ID }}
           META_APP_SECRET: ${{ secrets.META_APP_SECRET }}
-          PUBLIC_BASE_URL: ${{ secrets.PUBLIC_BASE_URL }}
+          PUBLIC_BASE_URL: ${{ secrets.PUBLIC_BASE_URL || 'https://raw.githubusercontent.com/shashank17mishra/insta_post_auto/main' }}
           INSTAGRAM_PUBLISH_ENABLED: 'true'
           DRY_RUN: 'false'
         run: |
-          CMD="python -m scripts.run_pipeline"
-          if [ -n "${{ github.event.inputs.topic }}" ]; then
-            CMD="$CMD --topic \"${{ github.event.inputs.topic }}\""
-          fi
-          if [ -n "${{ github.event.inputs.category }}" ]; then
-            CMD="$CMD --category \"${{ github.event.inputs.category }}\""
-          fi
-          echo "Executing: $CMD"
-          eval $CMD
+          python -m scripts.publish_post --latest --force --live
 
-      - name: Commit & Push Changes (Database & Generated Notes)
+      - name: 4. Sync Database & Published State
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
           git add data/ generated/
           if git diff --staged --quiet; then
-            echo "No changes to commit."
+            echo "No database changes to commit."
           else
-            git commit -m "Auto-published daily study notes carousel [skip ci]"
+            git commit -m "Update post published status [skip ci]"
             git push origin main
           fi
