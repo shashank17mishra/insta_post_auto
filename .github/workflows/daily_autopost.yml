@@ -2,8 +2,11 @@ name: Daily StudyNotes AutoPoster
 
 on:
   schedule:
-    # Runs daily at 10:00 AM UTC (3:30 PM IST)
-    - cron: '0 10 * * *'
+    # 3 Posts Daily (100% Automated - Zero Human Enrollment)
+    # 1. Morning Post:   04:00 UTC (9:30 AM IST)
+    # 2. Afternoon Post: 09:00 UTC (2:30 PM IST)
+    # 3. Evening Post:   15:00 UTC (8:30 PM IST)
+    - cron: '0 4,9,15 * * *'
   workflow_dispatch:
     inputs:
       topic:
