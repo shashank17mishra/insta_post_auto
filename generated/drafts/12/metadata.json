@@ -1,0 +1,30 @@
+{
+  "post_id": 12,
+  "topic_id": "sql-join",
+  "topic": "SQL JOIN",
+  "category": "SQL",
+  "title": "SQL JOINs: Connecting Your Data!",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png"
+  ],
+  "caption": "Struggling to connect the dots between your SQL tables? 🧩 Our latest notes break down SQL JOINs into easy-to-understand concepts! From INNER to FULL OUTER, master how to combine data effectively. These are crucial for any database query and a must-know for competitive exams and interviews! 🚀\n\nDive into:\n✨ INNER JOIN: The common ground.\n✨ LEFT/RIGHT JOIN: All from one side, matching from the other.\n✨ FULL OUTER JOIN: The complete picture.\n✨ CROSS JOIN: The Cartesian product.\n\nSave this post for your next study session and ace your SQL queries! 🔖 What's your favorite JOIN type to use? Let us know below! 👇\n\n#SQL #DBMS #Database #SQLJOIN #ComputerScience #BTech #EngineeringNotes #GATEPreparation #PlacementPrep #TechNotes #DataScience #SQLQueries",
+  "hashtags": [
+    "#SQL",
+    "#DBMS",
+    "#Database",
+    "#SQLJOIN",
+    "#ComputerScience",
+    "#BTech",
+    "#EngineeringNotes",
+    "#GATEPreparation",
+    "#PlacementPrep",
+    "#TechNotes",
+    "#DataScience",
+    "#SQLQueries"
+  ],
+  "content_hash": "2b89ebfbdee313c61b766161d7876e1b1201b9c3cd3ce2b1a6ebc2353069b9b4",
+  "created_at": "2026-09-16T20:14:27.167157+00:00",
+  "status": "draft"
+}
