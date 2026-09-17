@@ -1,0 +1,30 @@
+{
+  "post_id": 19,
+  "topic_id": "algo-big-o",
+  "topic": "Big O Notation",
+  "category": "Algorithms",
+  "title": "Mastering Big O Notation",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png"
+  ],
+  "caption": "Cracking the code of algorithm efficiency starts with Big O Notation! 🚀 Ever wondered how to compare different algorithms? Big O is your answer! It helps us understand how an algorithm's performance scales with input size, focusing on the worst-case scenario. From O(1) constant time to O(n^2) quadratic growth, mastering these concepts is crucial for writing efficient code and acing your exams. Swipe through for a clear breakdown, common complexities, and practical examples!\n\nSave this post for your next coding interview or algorithm exam! 🔖 What's your favorite Big O complexity to optimize? Let us know below! 👇\n\n#BigONotation #Algorithms #DataStructures #ComputerScience #DSA #Coding #Programming #BTech #GATEPreparation #CompetitiveProgramming #AlgorithmAnalysis #TechNotes",
+  "hashtags": [
+    "#BigONotation",
+    "#Algorithms",
+    "#DataStructures",
+    "#ComputerScience",
+    "#DSA",
+    "#Coding",
+    "#Programming",
+    "#BTech",
+    "#GATEPreparation",
+    "#CompetitiveProgramming",
+    "#AlgorithmAnalysis",
+    "#TechNotes"
+  ],
+  "content_hash": "4c9cde56b30a87d7dbc73f8a84571138096eea9144dc26b7bdb7f3f4fa3d7d20",
+  "created_at": "2026-09-17T06:34:41.755529+00:00",
+  "status": "draft"
+}
