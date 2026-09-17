@@ -1,0 +1,11 @@
+Unlock the power of organized data with SQL's ORDER BY clause! 📊 Whether you need to see the highest salaries first or group by department, ORDER BY is your go-to for clean, readable results. 
+
+Swipe through these notes to master: 
+✨ Basic syntax
+✨ Sorting by multiple columns
+✨ Advanced tips like sorting by expressions
+
+Save this post for your next SQL query! 🔖
+#SQL #DBMS #Database #ComputerScience #BTech #EngineeringNotes #GATEPreparation #SQLTips
+
+#SQL #DBMS #Database #ComputerScience #BTech #EngineeringNotes #GATEPreparation #SQLTips #DataScience #Programming

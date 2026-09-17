@@ -1,0 +1,28 @@
+{
+  "post_id": 20,
+  "topic_id": "sql-order-by",
+  "topic": "SQL ORDER BY",
+  "category": "SQL",
+  "title": "SQL ORDER BY Clause",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png"
+  ],
+  "caption": "Unlock the power of organized data with SQL's ORDER BY clause! 📊 Whether you need to see the highest salaries first or group by department, ORDER BY is your go-to for clean, readable results. \n\nSwipe through these notes to master: \n✨ Basic syntax\n✨ Sorting by multiple columns\n✨ Advanced tips like sorting by expressions\n\nSave this post for your next SQL query! 🔖\n#SQL #DBMS #Database #ComputerScience #BTech #EngineeringNotes #GATEPreparation #SQLTips\n\n#SQL #DBMS #Database #ComputerScience #BTech #EngineeringNotes #GATEPreparation #SQLTips #DataScience #Programming",
+  "hashtags": [
+    "#SQL",
+    "#DBMS",
+    "#Database",
+    "#ComputerScience",
+    "#BTech",
+    "#EngineeringNotes",
+    "#GATEPreparation",
+    "#SQLTips",
+    "#DataScience",
+    "#Programming"
+  ],
+  "content_hash": "4016514704030e32a0243d7463f055099471885bdbb15375a48f52f56d254d1a",
+  "created_at": "2026-09-17T09:04:19.655521+00:00",
+  "status": "draft"
+}
