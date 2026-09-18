@@ -1,0 +1,28 @@
+{
+  "post_id": 25,
+  "topic_id": "algo-binary-search",
+  "topic": "Binary Search",
+  "category": "Algorithms",
+  "title": "Mastering Binary Search 🔍",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png"
+  ],
+  "caption": "Unlock the power of efficient searching with Binary Search! 🚀 This fundamental algorithm is a must-know for every B.Tech student and competitive programmer. It's super fast for sorted data, cutting down search time dramatically. \n\nSwipe through these notes to understand its core concept, step-by-step algorithm, and crucial time complexity. Master the pseudocode and ace your exams! \n\nSave this post for quick revision! 🔖 What's your favorite use case for Binary Search? Let us know in the comments! 👇\n\n#BinarySearch #Algorithms #DataStructures #ComputerScience #BTech #EngineeringNotes #GATEPreparation #CompetitiveProgramming #CodingInterview #LearnToCode",
+  "hashtags": [
+    "#BinarySearch",
+    "#Algorithms",
+    "#DataStructures",
+    "#ComputerScience",
+    "#BTech",
+    "#EngineeringNotes",
+    "#GATEPreparation",
+    "#CompetitiveProgramming",
+    "#CodingInterview",
+    "#LearnToCode"
+  ],
+  "content_hash": "4a9c7e4454afa372dc7187cd4e410c42289fc16738b8f915f4c5f3962d589c2c",
+  "created_at": "2026-09-18T17:59:08.012089+00:00",
+  "status": "draft"
+}
