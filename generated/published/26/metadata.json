@@ -1,0 +1,30 @@
+{
+  "post_id": 26,
+  "topic_id": "py-dictionaries",
+  "topic": "Python Dictionaries",
+  "category": "Python",
+  "title": "Mastering Python Dictionaries",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png"
+  ],
+  "caption": "Unlock the power of Python Dictionaries! 🚀 Dictionaries are fundamental for organizing data efficiently in Python, acting like real-world dictionaries where you look up a word (key) to find its definition (value). This post covers everything from creation to common operations and methods. Perfect for beginners and a quick revision for competitive exams!\n\n💡 Swipe through these notes to master Dictionaries!\nSave this post for your next Python project or exam prep! 🔖\n\n#Python #PythonDictionaries #DataStructures #Programming #ComputerScience #BTech #GATEPreparation #CodingNotes #PythonForBeginners #LearnPython #TechEducation #StudyNotes",
+  "hashtags": [
+    "#Python",
+    "#PythonDictionaries",
+    "#DataStructures",
+    "#Programming",
+    "#ComputerScience",
+    "#BTech",
+    "#GATEPreparation",
+    "#CodingNotes",
+    "#PythonForBeginners",
+    "#LearnPython",
+    "#TechEducation",
+    "#StudyNotes"
+  ],
+  "content_hash": "03aa263534f7b2916573da3b12b90b91488ecd332c058eba13fba7bd69c05767",
+  "created_at": "2026-09-19T08:27:00.563932+00:00",
+  "status": "draft"
+}
