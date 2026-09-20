@@ -1,0 +1,31 @@
+{
+  "post_id": 30,
+  "topic_id": "ds-confusion-matrix",
+  "topic": "Confusion Matrix",
+  "category": "Data Science",
+  "title": "Confusion Matrix: Your Guide to Model Evaluation",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png",
+    "page_04.png"
+  ],
+  "caption": "Crushing your Data Science exams starts with mastering the basics! 🚀 Dive into the Confusion Matrix – your ultimate tool for evaluating classification models. From understanding TP/TN/FP/FN to calculating Precision, Recall, and F1-Score, these notes cover everything you need. Don't just memorize, understand the 'why' behind each metric! \n\n💡 Save this post for quick revision and ace your next Data Science interview or exam! \n\n#DataScience #MachineLearning #ConfusionMatrix #ModelEvaluation #Classification #AI #BTech #GATEPreparation #ComputerScience #EngineeringNotes #StudyNotes #TechEducation",
+  "hashtags": [
+    "#DataScience",
+    "#MachineLearning",
+    "#ConfusionMatrix",
+    "#ModelEvaluation",
+    "#Classification",
+    "#AI",
+    "#BTech",
+    "#GATEPreparation",
+    "#ComputerScience",
+    "#EngineeringNotes",
+    "#StudyNotes",
+    "#TechEducation"
+  ],
+  "content_hash": "ee982a1b2c759bc6a3ea7cb5e2e2c1267a4bc4bbf7d90dca88cf3f67dbb7f4b7",
+  "created_at": "2026-09-20T13:26:06.608313+00:00",
+  "status": "draft"
+}
