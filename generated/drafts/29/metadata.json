@@ -1,0 +1,30 @@
+{
+  "post_id": 29,
+  "topic_id": "ml-decision-trees",
+  "topic": "Decision Trees",
+  "category": "Machine Learning",
+  "title": "🌳 Decision Trees: Your ML Foundation!",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png"
+  ],
+  "caption": "Mastering Decision Trees is a fundamental step in your Machine Learning journey! 🚀 These intuitive models are the building blocks for more complex algorithms like Random Forests and Gradient Boosting. Understanding how they split data, their pros & cons, and how to combat overfitting is key for any ML enthusiast. \n\nSave this post for your next ML exam or interview! 🔖 What's your favorite splitting criterion? Let us know in the comments! 👇\n\n#DecisionTrees #MachineLearning #MLAlgorithms #DataScience #SupervisedLearning #GiniImpurity #InformationGain #Overfitting #Pruning #BTech #GATEPreparation #ComputerScience",
+  "hashtags": [
+    "#DecisionTrees",
+    "#MachineLearning",
+    "#MLAlgorithms",
+    "#DataScience",
+    "#SupervisedLearning",
+    "#GiniImpurity",
+    "#InformationGain",
+    "#Overfitting",
+    "#Pruning",
+    "#BTech",
+    "#GATEPreparation",
+    "#ComputerScience"
+  ],
+  "content_hash": "5218209d9d996745fad1eefe774b82fc96ca8c1394f991b8a52a9e65ec197b63",
+  "created_at": "2026-09-20T08:57:11.298278+00:00",
+  "status": "draft"
+}
