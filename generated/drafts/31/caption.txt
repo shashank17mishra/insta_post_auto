@@ -1,0 +1,7 @@
+Struggling with model performance? 🤔 Understanding Overfitting and Underfitting is KEY to building robust Machine Learning models! 🚀 These notes break down why your model might be underperforming and how to fix it. From 'memorizing' noise to being 'too simple,' we've got you covered! 
+
+Swipe through for clear definitions, causes, and practical solutions. Save this post for your next ML project or exam prep! 🔖
+
+#MachineLearning #Overfitting #Underfitting #ModelFit #DataScience #MLBasics #AI #DeepLearning #BTech #GATEPreparation
+
+#MachineLearning #Overfitting #Underfitting #ModelFit #DataScience #MLBasics #AI #DeepLearning #BTech #GATEPreparation #ComputerScience
