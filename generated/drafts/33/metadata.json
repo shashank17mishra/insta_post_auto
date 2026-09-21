@@ -1,0 +1,31 @@
+{
+  "post_id": 33,
+  "topic_id": "breadth-first-search",
+  "topic": "Breadth First Search",
+  "category": "Algorithms",
+  "title": "BFS: Breadth-First Search",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png",
+    "page_04.png"
+  ],
+  "caption": "Mastering Breadth-First Search (BFS) is a fundamental skill for any aspiring engineer! 🚀 Dive into our comprehensive notes covering everything from its core concept and algorithm steps to Python implementation and real-world applications. BFS is your go-to for finding the shortest path in unweighted graphs and exploring networks layer by layer. Save this post to ace your algorithms exams and interviews! 🔖\n\n#BFS #BreadthFirstSearch #Algorithms #GraphTheory #DataStructures #ComputerScience #BTech #GATEPreparation #CodingInterview #Programming #EngineeringNotes #CSNotes",
+  "hashtags": [
+    "#BFS",
+    "#BreadthFirstSearch",
+    "#Algorithms",
+    "#GraphTheory",
+    "#DataStructures",
+    "#ComputerScience",
+    "#BTech",
+    "#GATEPreparation",
+    "#CodingInterview",
+    "#Programming",
+    "#EngineeringNotes",
+    "#CSNotes"
+  ],
+  "content_hash": "073e2a7c72c394d7467d8df3cac53282fc0c7f03ed3e767860225b20aaa08668",
+  "created_at": "2026-09-21T19:50:17.403309+00:00",
+  "status": "draft"
+}
