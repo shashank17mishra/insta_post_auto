@@ -1,0 +1,5 @@
+Cracking the code of algorithm efficiency starts with Big O Notation! 🚀 Understanding how your code scales is crucial for building performant applications and acing those technical interviews. This post breaks down the core concepts, common complexities, and practical rules for Big O analysis. Save this for your next coding challenge! 🔖
+
+What's your favorite algorithm with a great Big O complexity? Share in the comments! 👇
+
+#BigONotation #Algorithms #DataStructures #ComputerScience #Coding #Programming #AlgorithmAnalysis #TimeComplexity #SpaceComplexity #GATEPreparation #BTech #EngineeringNotes
