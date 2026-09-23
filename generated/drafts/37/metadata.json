@@ -1,0 +1,30 @@
+{
+  "post_id": 37,
+  "topic_id": "introduction-to-linear-regression:-predi-aefd",
+  "topic": "Introduction to Linear Regression: Predicting Continuous Values",
+  "category": "Data Science",
+  "title": "LINEAR REGRESSION BASICS",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png"
+  ],
+  "caption": "Unlock the secrets of predicting continuous values with our beginner-friendly guide to Linear Regression! 📈 Dive into the core concepts, understand the magic behind the cost function, and master Gradient Descent. Perfect for B.Tech students, GATE aspirants, and anyone starting their Data Science journey! Save this post for your next study session! 🔖\n\n#LinearRegression #DataScience #MachineLearning #ML #BeginnerML #Statistics #AI #BTech #GATEPreparation #ComputerScience #EngineeringNotes #StudyNotes",
+  "hashtags": [
+    "#LinearRegression",
+    "#DataScience",
+    "#MachineLearning",
+    "#ML",
+    "#BeginnerML",
+    "#Statistics",
+    "#AI",
+    "#BTech",
+    "#GATEPreparation",
+    "#ComputerScience",
+    "#EngineeringNotes",
+    "#StudyNotes"
+  ],
+  "content_hash": "7fcf70705671a4d5aff836825dfe82f40db6b11a05e02e54d813f42438fec136",
+  "created_at": "2026-09-23T08:58:35.672045+00:00",
+  "status": "draft"
+}
