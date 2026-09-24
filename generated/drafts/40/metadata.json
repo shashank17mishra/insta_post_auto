@@ -1,0 +1,28 @@
+{
+  "post_id": 40,
+  "topic_id": "binary-search:-an-efficient-algorithm-fo-bd0c",
+  "topic": "Binary Search: An Efficient Algorithm for Sorted Data",
+  "category": "Algorithms",
+  "title": "🔍 Binary Search: The Power of Logarithmic Time!",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png"
+  ],
+  "caption": "Unlock the power of efficient searching with Binary Search! 🚀 This algorithm is a cornerstone of computer science, crucial for competitive programming, interviews, and optimizing data retrieval.\n\n💡 Remember: Sorted data is key! Binary Search slashes your search space in half with every step, giving you that amazing O(log n) performance.\n\nSave this post to ace your algorithms exams and interviews! 🔖 What's your favorite use case for Binary Search? Let us know in the comments! 👇\n\n#BinarySearch #Algorithms #DataStructures #ComputerScience #BTech #EngineeringNotes #GATEPreparation #CompetitiveProgramming #DSA #TechEducation",
+  "hashtags": [
+    "#BinarySearch",
+    "#Algorithms",
+    "#DataStructures",
+    "#ComputerScience",
+    "#BTech",
+    "#EngineeringNotes",
+    "#GATEPreparation",
+    "#CompetitiveProgramming",
+    "#DSA",
+    "#TechEducation"
+  ],
+  "content_hash": "1e175afdfc9d436199893998fcf16835a1f0968074ecd6a2644a089d165f682f",
+  "created_at": "2026-09-24T08:54:02.682318+00:00",
+  "status": "draft"
+}
