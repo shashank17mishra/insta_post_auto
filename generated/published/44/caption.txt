@@ -1,0 +1,7 @@
+Cracking the code on algorithm efficiency! 🚀 Big O Notation is your superpower for understanding how fast (or slow!) your code will run as data grows.
+
+From lightning-fast O(1) to the exponential crawl of O(2^n), knowing these complexities is crucial for writing scalable and performant software. This carousel breaks down the essentials, common complexities, and key simplification rules.
+
+Save this post to ace your data structures and algorithms exams! 🔖 What's your favorite Big O complexity to optimize for? Let me know below! 👇
+
+#BigONotation #Algorithms #DataStructures #TimeComplexity #SpaceComplexity #ComputerScience #DSA #GATEPreparation #BTech #EngineeringNotes #CodingInterview #AlgorithmAnalysis

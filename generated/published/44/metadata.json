@@ -1,0 +1,31 @@
+{
+  "post_id": 44,
+  "topic_id": "big-o-notation-explained:-understanding--3078",
+  "topic": "Big O Notation Explained: Understanding Algorithm Efficiency",
+  "category": "Algorithms",
+  "title": "Big O Notation: Algorithm Efficiency Explained",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png",
+    "page_04.png"
+  ],
+  "caption": "Cracking the code on algorithm efficiency! 🚀 Big O Notation is your superpower for understanding how fast (or slow!) your code will run as data grows.\n\nFrom lightning-fast O(1) to the exponential crawl of O(2^n), knowing these complexities is crucial for writing scalable and performant software. This carousel breaks down the essentials, common complexities, and key simplification rules.\n\nSave this post to ace your data structures and algorithms exams! 🔖 What's your favorite Big O complexity to optimize for? Let me know below! 👇\n\n#BigONotation #Algorithms #DataStructures #TimeComplexity #SpaceComplexity #ComputerScience #DSA #GATEPreparation #BTech #EngineeringNotes #CodingInterview #AlgorithmAnalysis",
+  "hashtags": [
+    "#BigONotation",
+    "#Algorithms",
+    "#DataStructures",
+    "#TimeComplexity",
+    "#SpaceComplexity",
+    "#ComputerScience",
+    "#DSA",
+    "#GATEPreparation",
+    "#BTech",
+    "#EngineeringNotes",
+    "#CodingInterview",
+    "#AlgorithmAnalysis"
+  ],
+  "content_hash": "36a5e62d03f24ad68b70eac1476949b0a8cc0fdcc47676ec47d63f1d4aebb4a3",
+  "created_at": "2026-09-25T19:04:14.955067+00:00",
+  "status": "draft"
+}
