@@ -1,0 +1,30 @@
+{
+  "post_id": 43,
+  "topic_id": "what-is-machine-learning?-a-gentle-intro-de07",
+  "topic": "What is Machine Learning? A Gentle Introduction to Supervised vs. Unsupervised Learning",
+  "category": "Data Science",
+  "title": "Machine Learning Basics",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png",
+    "page_04.png"
+  ],
+  "caption": "Dive into the fascinating world of Machine Learning! 🤖 Ever wondered how AI learns? It all starts with understanding Supervised vs. Unsupervised Learning. These are the foundational pillars of almost every ML application you see today!\n\n💡 Supervised Learning: Think of it as learning with a teacher, where you have correct answers (labels) to guide you. Perfect for predictions like spam detection or house price forecasting.\n\n🔍 Unsupervised Learning: This is like exploring without a map, discovering hidden patterns and structures in data all on your own. Great for customer segmentation or anomaly detection.\n\nSave these notes to ace your next Data Science exam or interview! 🔖 Which type of ML do you find more intriguing? Let us know in the comments! 👇\n\n#MachineLearning #DataScience #SupervisedLearning #UnsupervisedLearning #MLBasics #AI #ComputerScience #BTech #EngineeringNotes #GATEPreparation #TechEducation",
+  "hashtags": [
+    "#MachineLearning",
+    "#DataScience",
+    "#SupervisedLearning",
+    "#UnsupervisedLearning",
+    "#MLBasics",
+    "#AI",
+    "#ComputerScience",
+    "#BTech",
+    "#EngineeringNotes",
+    "#GATEPreparation",
+    "#TechEducation"
+  ],
+  "content_hash": "12756505e89117f7d727f8432290560d207027294d1b8f15d1d686c8e065404d",
+  "created_at": "2026-09-25T09:16:09.899395+00:00",
+  "status": "draft"
+}
