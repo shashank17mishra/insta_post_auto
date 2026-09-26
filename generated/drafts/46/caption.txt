@@ -1,0 +1,11 @@
+Ready to ace Discrete Math? 🚀 Dive into the essentials of Sets, Functions, and Basic Logic with these high-yield notes! We've broken down core definitions, operations, and types into easy-to-understand pages. Whether you're prepping for B.Tech exams, GATE, or just building your CS foundation, these concepts are crucial.
+
+💡 **What's inside?**
+*   **Sets:** Definitions, types, and operations (Union, Intersection, Complement).
+*   **Functions:** Domain, Codomain, Range, and types (Injective, Surjective, Bijective).
+*   **Logic:** Propositions, connectives (AND, OR, NOT, IMPLIES), and Truth Tables.
+*   **Quantifiers:** Universal and Existential quantifiers explained!
+
+Save this post for quick revision and tag a friend who needs this! 🔖 Let's conquer Discrete Math together!
+
+#DiscreteMath #Sets #Functions #Logic #ComputerScience #Mathematics #BTech #GATEPreparation #EngineeringNotes #StudyNotes #MathHelp #CSFundamentals
