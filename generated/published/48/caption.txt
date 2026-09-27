@@ -1,0 +1,13 @@
+📚 SQL Clauses Explained Simply!
+
+Swipe to master GROUP BY, HAVING, ORDER BY, and TOP clauses with clean syntax and exam notes.
+
+💡 Quick Rule:
+• WHERE filters rows BEFORE grouping
+• HAVING filters groups AFTER grouping
+
+Save this post for quick revision before your technical interviews! 🔖
+
+#SQL #DBMS #Database #BTech #ComputerScience #SoftwareEngineering #DataEngineering
+
+#SQL #DBMS #Database #BTech #ComputerScience #Programming #DataEngineering #CodingInterview
