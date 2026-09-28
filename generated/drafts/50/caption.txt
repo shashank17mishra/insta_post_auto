@@ -1,0 +1,7 @@
+Ready to dive into Data Science? 🚀 Pandas DataFrames are your starting point for powerful data manipulation in Python! These notes cover the basics: what DataFrames are, how to create them, and essential ways to select data. Master these fundamentals and unlock a world of data analysis! 
+
+Save this post for your next data project! 🔖
+
+#DataScience #Pandas #DataFrame #Python #DataAnalysis #MachineLearning #BeginnerPython #Programming #Coding #BTech #GATEPreparation #StudyNotes
+
+#Pandas #DataFrame #DataScience #Python #MachineLearning #DataAnalysis #BeginnerPython #Programming #Coding #BTech #GATEPreparation #StudyNotes
