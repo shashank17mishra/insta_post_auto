@@ -1,0 +1,10 @@
+Cracking the code of algorithm efficiency starts with Big O Notation! 🚀 Ever wondered why some code runs lightning fast and others crawl? Big O is your answer!
+
+These notes break down the core concepts, common complexities from O(1) to O(n!), and essential rules for calculating them. Master this, and you'll be able to analyze and optimize any algorithm like a pro!
+
+💡 Swipe through to understand:
+✅ What Big O truly means
+✅ The hierarchy of common complexities
+✅ How to calculate Big O for your code
+
+Save this post for your next coding interview or algorithms exam! 🔖 Let's make complex concepts simple! #BigONotation #Algorithms #DataStructures #ComputerScience #CodingInterview #GATEPreparation #BTech #EngineeringNotes #AlgorithmAnalysis #DSA
