@@ -1,0 +1,18 @@
+{
+  "post_id": 59,
+  "topic_id": "big-o-notation-explained:-understanding--a399",
+  "topic": "Big O Notation Explained: Understanding Algorithm Efficiency",
+  "category": "Algorithms",
+  "title": "Big O Notation: Algorithm Efficiency Explained",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png",
+    "page_04.png"
+  ],
+  "caption": "Cracking the code of algorithm efficiency starts with Big O Notation! 🚀 This fundamental concept helps you understand how algorithms scale with input size, making it a must-know for every B.Tech student and competitive programmer.\n\nSwipe through these notes to grasp: \n✨ What Big O is and why it matters.\n✨ Common time complexities like O(1), O(n), O(log n), O(n^2).\n✨ Key rules for calculating Big O.\n\nSave this post for your next exam or interview prep! 🔖 Which complexity do you find most challenging to identify? Let us know in the comments! 👇\n\n#BigONotation #Algorithms #DataStructures #ComputerScience #BTech #GATEPreparation #CodingInterview #AlgorithmAnalysis #EngineeringNotes #CSConcepts #Programming\n\n#StudyNotes #ComputerScience #BTech",
+  "hashtags": [],
+  "content_hash": "926e7edcc50602d8bd04644c2925be8ca64590e681bfa2b4dc74948947b085fe",
+  "created_at": "2026-10-02T19:42:39.577649+00:00",
+  "status": "draft"
+}
