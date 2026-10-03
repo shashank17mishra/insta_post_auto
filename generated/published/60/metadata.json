@@ -1,0 +1,29 @@
+{
+  "post_id": 60,
+  "topic_id": "how-binary-search-works:-efficiently-fin-bfd1",
+  "topic": "How Binary Search Works: Efficiently Finding Items in Sorted Data",
+  "category": "Algorithms",
+  "title": "🔍 Binary Search: The Fast Finder!",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png",
+    "page_04.png"
+  ],
+  "caption": "Unlock the power of efficient searching with Binary Search! 🚀 This algorithm is a game-changer for finding elements in sorted data, cutting down your search time dramatically. From understanding its core logic to tracing an example and analyzing its O(log n) complexity, these notes cover everything you need to master it. Save this post to ace your algorithms exams! 🔖\n\nWhat's your favorite algorithm for searching? Let us know in the comments! 👇\n\n#BinarySearch #Algorithms #DataStructures #ComputerScience #BTech #EngineeringNotes #GATEPreparation #CodingInterview #DSA #StudyNotes",
+  "hashtags": [
+    "#BinarySearch",
+    "#Algorithms",
+    "#DataStructures",
+    "#ComputerScience",
+    "#BTech",
+    "#EngineeringNotes",
+    "#GATEPreparation",
+    "#CodingInterview",
+    "#DSA",
+    "#StudyNotes"
+  ],
+  "content_hash": "7ff190817c448a4af0fda977146fc1698849ad9c782c87f24e676259fc829c9b",
+  "created_at": "2026-10-03T09:34:11.355858+00:00",
+  "status": "draft"
+}
