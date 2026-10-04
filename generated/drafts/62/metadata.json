@@ -1,0 +1,30 @@
+{
+  "post_id": 62,
+  "topic_id": "set-theory-fundamentals:-union,-intersec-2bdb",
+  "topic": "Set Theory Fundamentals: Union, Intersection, and Complement",
+  "category": "Mathematics",
+  "title": "Set Theory Essentials: Union, Intersection, Complement",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png"
+  ],
+  "caption": "Mastering Set Theory is crucial for Discrete Mathematics, Logic, and even Computer Science! 🚀 Dive into the fundamentals of Union, Intersection, and Complement with these clear, concise notes. We've covered definitions, formulas, examples, and even De Morgan's Laws!\n\nUnderstanding these basic operations is your first step to tackling more complex topics like relations, functions, and probability. Whether you're prepping for GATE, university exams, or just brushing up, these notes are designed to give you a solid foundation.\n\n💡 Swipe through to learn:\n✅ What sets are and their notation\n✅ How to find the Union ($\\cup$) of sets\n✅ How to find the Intersection ($\\cap$) of sets\n✅ What Disjoint Sets mean\n✅ How to determine the Complement ($A^c$) of a set\n✅ The powerful De Morgan's Laws\n\nSave this post for your next study session! 🔖 What's your favorite set theory concept? Let us know in the comments! 👇\n\n#SetTheory #Mathematics #DiscreteMath #ComputerScience #BTech #EngineeringNotes #GATEPreparation #UniversityExams #MathNotes #StudyTips #Logic #DataStructures",
+  "hashtags": [
+    "#SetTheory",
+    "#Mathematics",
+    "#DiscreteMath",
+    "#ComputerScience",
+    "#BTech",
+    "#EngineeringNotes",
+    "#GATEPreparation",
+    "#UniversityExams",
+    "#MathNotes",
+    "#StudyTips",
+    "#Logic",
+    "#DataStructures"
+  ],
+  "content_hash": "395837c42a2e52ac11b1e8d2d10eb4c7fd8c20d6ae9434d817adf505fab6fa91",
+  "created_at": "2026-10-04T10:21:48.092502+00:00",
+  "status": "draft"
+}

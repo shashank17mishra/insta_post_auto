@@ -1,0 +1,15 @@
+Mastering Set Theory is crucial for Discrete Mathematics, Logic, and even Computer Science! 🚀 Dive into the fundamentals of Union, Intersection, and Complement with these clear, concise notes. We've covered definitions, formulas, examples, and even De Morgan's Laws!
+
+Understanding these basic operations is your first step to tackling more complex topics like relations, functions, and probability. Whether you're prepping for GATE, university exams, or just brushing up, these notes are designed to give you a solid foundation.
+
+💡 Swipe through to learn:
+✅ What sets are and their notation
+✅ How to find the Union ($\cup$) of sets
+✅ How to find the Intersection ($\cap$) of sets
+✅ What Disjoint Sets mean
+✅ How to determine the Complement ($A^c$) of a set
+✅ The powerful De Morgan's Laws
+
+Save this post for your next study session! 🔖 What's your favorite set theory concept? Let us know in the comments! 👇
+
+#SetTheory #Mathematics #DiscreteMath #ComputerScience #BTech #EngineeringNotes #GATEPreparation #UniversityExams #MathNotes #StudyTips #Logic #DataStructures
