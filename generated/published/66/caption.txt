@@ -1,0 +1,7 @@
+Demystifying Derivatives for Machine Learning! 🚀 Calculus might seem daunting, but understanding derivatives is your superpower for ML. From finding the instantaneous rate of change to powering Gradient Descent and Backpropagation, derivatives are everywhere!
+
+This carousel breaks down the intuition, formal definition, key rules, and their crucial role in ML. Swipe through to master the basics! 💡
+
+Save this post for your next study session! 🔖 What's your favorite derivative rule?
+
+#Derivatives #Calculus #MachineLearning #Mathematics #MLBasics #GATEPreparation #BTech #ComputerScience #EngineeringNotes #StudyNotes #DataScience #MathForML
