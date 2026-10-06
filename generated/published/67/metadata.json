@@ -1,0 +1,30 @@
+{
+  "post_id": 67,
+  "topic_id": "how-the-internet-works:-from-ip-addresse-f4f1",
+  "topic": "How the Internet Works: From IP Addresses to DNS",
+  "category": "Computer Science",
+  "title": "🌐 How the Internet Works: IP Addresses to DNS",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png"
+  ],
+  "caption": "Ever wondered what happens when you type a website address? 🌐 Dive into the fascinating world of how the internet works, from the unique identifiers of IP Addresses to the internet's 'phonebook', DNS! 🚀 This beginner-friendly guide breaks down the core concepts you need to know.\n\nUnderstand:\n✨ What an IP Address is & why we need IPv6\n✨ How DNS translates names to numbers\n✨ The step-by-step journey from typing a URL to seeing a webpage!\n\nSave this post for your next exam or interview prep! 🔖 Let's demystify the web together! #ComputerScience #InternetBasics #Networking\n\n#ComputerScience #Networking #IPAddress #DNS #HowTheInternetWorks #BTech #EngineeringNotes #GATEPreparation #TechExplained #BeginnerFriendly #WebFundamentals #StudyNotes",
+  "hashtags": [
+    "#ComputerScience",
+    "#Networking",
+    "#IPAddress",
+    "#DNS",
+    "#HowTheInternetWorks",
+    "#BTech",
+    "#EngineeringNotes",
+    "#GATEPreparation",
+    "#TechExplained",
+    "#BeginnerFriendly",
+    "#WebFundamentals",
+    "#StudyNotes"
+  ],
+  "content_hash": "530c32b9e60644029e9bc68a5ff1b6d400e09f439bb31dc5b9cfb22c1b547274",
+  "created_at": "2026-10-06T19:56:36.043883+00:00",
+  "status": "draft"
+}
