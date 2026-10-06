@@ -1,0 +1,10 @@
+Ever wondered what happens when you type a website address? 🌐 Dive into the fascinating world of how the internet works, from the unique identifiers of IP Addresses to the internet's 'phonebook', DNS! 🚀 This beginner-friendly guide breaks down the core concepts you need to know.
+
+Understand:
+✨ What an IP Address is & why we need IPv6
+✨ How DNS translates names to numbers
+✨ The step-by-step journey from typing a URL to seeing a webpage!
+
+Save this post for your next exam or interview prep! 🔖 Let's demystify the web together! #ComputerScience #InternetBasics #Networking
+
+#ComputerScience #Networking #IPAddress #DNS #HowTheInternetWorks #BTech #EngineeringNotes #GATEPreparation #TechExplained #BeginnerFriendly #WebFundamentals #StudyNotes
