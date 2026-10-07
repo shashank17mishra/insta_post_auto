@@ -1,0 +1,28 @@
+{
+  "post_id": 68,
+  "topic_id": "introduction-to-sql:-querying-and-manipu-20dd",
+  "topic": "Introduction to SQL: Querying and Manipulating Data",
+  "category": "Data Science",
+  "title": "SQL Fundamentals: Querying & DML",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png"
+  ],
+  "caption": "Unlock the power of data with these essential SQL commands! 🚀 Whether you're a beginner or brushing up, mastering `SELECT`, `WHERE`, `ORDER BY`, `INSERT`, `UPDATE`, and `DELETE` is crucial for any data role. Dive into these notes to get a solid grasp on querying and manipulating data in SQL. \n\nWhat's your favorite SQL command? Let us know in the comments! 👇\n\n#SQL #DBMS #DataScience #ComputerScience #BTech #EngineeringNotes #GATEPreparation #SQLTutorial #Database #Programming",
+  "hashtags": [
+    "#SQL",
+    "#DBMS",
+    "#DataScience",
+    "#ComputerScience",
+    "#BTech",
+    "#EngineeringNotes",
+    "#GATEPreparation",
+    "#SQLTutorial",
+    "#Database",
+    "#Programming"
+  ],
+  "content_hash": "1324f4735f10ecedfe98ca172cc5ebcc1cc2ce4f1216d439fac51b658f1dfc47",
+  "created_at": "2026-10-07T10:44:39.980944+00:00",
+  "status": "draft"
+}
