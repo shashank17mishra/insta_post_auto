@@ -1,0 +1,5 @@
+Unlock the power of data with these essential SQL commands! 🚀 Whether you're a beginner or brushing up, mastering `SELECT`, `WHERE`, `ORDER BY`, `INSERT`, `UPDATE`, and `DELETE` is crucial for any data role. Dive into these notes to get a solid grasp on querying and manipulating data in SQL. 
+
+What's your favorite SQL command? Let us know in the comments! 👇
+
+#SQL #DBMS #DataScience #ComputerScience #BTech #EngineeringNotes #GATEPreparation #SQLTutorial #Database #Programming
