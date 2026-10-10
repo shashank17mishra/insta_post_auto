@@ -1,0 +1,31 @@
+{
+  "post_id": 75,
+  "topic_id": "gradient-descent-explained:-how-machines-f802",
+  "topic": "Gradient Descent Explained: How Machines Learn from Data",
+  "category": "Data Science",
+  "title": "GRADIENT DESCENT",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png",
+    "page_04.png"
+  ],
+  "caption": "Ever wondered how machines 'learn' to make better predictions? 🤔 It's all thanks to Gradient Descent! This fundamental optimization algorithm helps models find the best parameters by iteratively minimizing their error (cost function). \n\nSwipe through these notes to understand its core concept, the crucial update rule, different types, and key challenges. Mastering Gradient Descent is a must for anyone diving into Machine Learning! \n\n💡 What's your biggest takeaway from Gradient Descent? Let us know in the comments! 👇\n\n#GradientDescent #MachineLearning #DataScience #Optimization #AI #MLAlgorithms #ComputerScience #BTech #EngineeringNotes #GATEPreparation #DeepLearning #StudyNotes",
+  "hashtags": [
+    "#GradientDescent",
+    "#MachineLearning",
+    "#DataScience",
+    "#Optimization",
+    "#AI",
+    "#MLAlgorithms",
+    "#ComputerScience",
+    "#BTech",
+    "#EngineeringNotes",
+    "#GATEPreparation",
+    "#DeepLearning",
+    "#StudyNotes"
+  ],
+  "content_hash": "119c33506b051230863218c58b0f3852b0df0490a817affc241a5b407e9f4019",
+  "created_at": "2026-10-10T19:05:11.626894+00:00",
+  "status": "draft"
+}
