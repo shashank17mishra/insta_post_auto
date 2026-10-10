@@ -1,0 +1,7 @@
+Ever wondered how machines 'learn' to make better predictions? 🤔 It's all thanks to Gradient Descent! This fundamental optimization algorithm helps models find the best parameters by iteratively minimizing their error (cost function). 
+
+Swipe through these notes to understand its core concept, the crucial update rule, different types, and key challenges. Mastering Gradient Descent is a must for anyone diving into Machine Learning! 
+
+💡 What's your biggest takeaway from Gradient Descent? Let us know in the comments! 👇
+
+#GradientDescent #MachineLearning #DataScience #Optimization #AI #MLAlgorithms #ComputerScience #BTech #EngineeringNotes #GATEPreparation #DeepLearning #StudyNotes
