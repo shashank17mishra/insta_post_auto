@@ -1,0 +1,29 @@
+{
+  "post_id": 81,
+  "topic_id": "graph-traversal-basics:-exploring-networ-cbe5",
+  "topic": "Graph Traversal Basics: Exploring Networks with BFS and DFS",
+  "category": "Algorithms",
+  "title": "Graph Traversal: BFS & DFS",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png"
+  ],
+  "caption": "Mastering graph traversal is crucial for any aspiring engineer! 🚀 Dive into the fundamentals of Breadth-First Search (BFS) and Depth-First Search (DFS) with these high-yield notes. Understand their core concepts, algorithms, and when to use each. Perfect for B.Tech students, GATE prep, and coding interviews! \n\n💡 What's your favorite application of BFS or DFS? Let us know in the comments! \n\nSave this post for your next algorithms revision! 🔖\n\n#Algorithms #GraphTraversal #BFS #DFS #ComputerScience #DataStructures #BTech #GATEPreparation #CodingInterview #EngineeringNotes #CSFundamentals",
+  "hashtags": [
+    "#Algorithms",
+    "#GraphTraversal",
+    "#BFS",
+    "#DFS",
+    "#ComputerScience",
+    "#DataStructures",
+    "#BTech",
+    "#GATEPreparation",
+    "#CodingInterview",
+    "#EngineeringNotes",
+    "#CSFundamentals"
+  ],
+  "content_hash": "09bdf40108cefff6e02a597f383b184ed18de71ab712e465cf9a8ad552482080",
+  "created_at": "2026-10-13T20:27:50.819555+00:00",
+  "status": "draft"
+}
