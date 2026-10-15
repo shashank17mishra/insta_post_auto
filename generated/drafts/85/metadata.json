@@ -1,0 +1,29 @@
+{
+  "post_id": 85,
+  "topic_id": "how-hash-tables-work:-fast-lookups-and-c-97b0",
+  "topic": "How Hash Tables Work: Fast Lookups and Collision Resolution",
+  "category": "Computer Science",
+  "title": "⚡️ Hash Tables: Fast Lookups & Collision Resolution ⚡️",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png",
+    "page_04.png"
+  ],
+  "caption": "Unlock the power of Hash Tables! 🚀 Ever wondered how data structures achieve lightning-fast lookups? Hash tables are your answer! These notes break down their core components, how hash functions work, and crucial collision resolution techniques like Chaining and Open Addressing.\n\nMastering hash tables is fundamental for competitive programming, system design, and acing your CS exams. Dive in and understand the magic behind O(1) average time complexity!\n\nSave this post for your next study session! 🔖 Which collision resolution method do you find most intuitive? Let us know in the comments! 👇\n#ComputerScience #DataStructures #Algorithms #HashTables #CSNotes #BTech #GATEPreparation #Programming #DSA #EngineeringNotes",
+  "hashtags": [
+    "#ComputerScience",
+    "#DataStructures",
+    "#Algorithms",
+    "#HashTables",
+    "#CSNotes",
+    "#BTech",
+    "#GATEPreparation",
+    "#Programming",
+    "#DSA",
+    "#EngineeringNotes"
+  ],
+  "content_hash": "b59ad213d2501132d99b293b615361d9883e176387cc138e26ff105aa7da1c8d",
+  "created_at": "2026-10-15T13:49:52.210470+00:00",
+  "status": "draft"
+}
