@@ -1,0 +1,30 @@
+{
+  "post_id": 86,
+  "topic_id": "introduction-to-relational-databases:-ta-974b",
+  "topic": "Introduction to Relational Databases: Tables, Keys, and Basic SQL",
+  "category": "Computer Science",
+  "title": "Mastering Relational Databases & SQL Basics",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png",
+    "page_04.png"
+  ],
+  "caption": "Dive into the world of Relational Databases! 🚀 This post breaks down the core concepts of tables, attributes, tuples, and the crucial role of Primary and Foreign Keys. Plus, get hands-on with essential SQL commands like CREATE, INSERT, SELECT, UPDATE, and DELETE. Perfect for beginners and a quick revision for your exams! 📚 Save this for your next study session! 🔖\n\n#SQL #DBMS #RelationalDatabase #ComputerScience #BTech #EngineeringNotes #GATEPreparation #DatabaseManagement #SQLBasics #TechEducation #StudyNotes",
+  "hashtags": [
+    "#SQL",
+    "#DBMS",
+    "#RelationalDatabase",
+    "#ComputerScience",
+    "#BTech",
+    "#EngineeringNotes",
+    "#GATEPreparation",
+    "#DatabaseManagement",
+    "#SQLBasics",
+    "#TechEducation",
+    "#StudyNotes"
+  ],
+  "content_hash": "1ea5d96b1e3a6954357234592f4b50bd0499a14d9280e9197598665f601aa7b1",
+  "created_at": "2026-10-15T18:48:37.692189+00:00",
+  "status": "draft"
+}
