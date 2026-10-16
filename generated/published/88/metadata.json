@@ -1,0 +1,30 @@
+{
+  "post_id": 88,
+  "topic_id": "understanding-big-o-notation:-the-langua-367d",
+  "topic": "Understanding Big O Notation: The Language of Algorithm Efficiency",
+  "category": "Algorithms",
+  "title": "Mastering Big O Notation",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png",
+    "page_04.png"
+  ],
+  "caption": "Cracking the code of algorithm efficiency starts with Big O Notation! 🚀 This fundamental concept helps us understand how algorithms scale with input size, making it crucial for competitive programming, interviews, and building robust software.\n\nSwipe through these notes to master:\n✨ What Big O is and why it matters.\n✨ Formal definition and key rules.\n✨ A breakdown of common time complexities from O(1) to O(n!).\n\nSave this post for your next algorithm study session! 🔖 What's your favorite Big O complexity to optimize for? Let us know in the comments! 👇\n\n#BigONotation #Algorithms #DataStructures #ComputerScience #Programming #Coding #GATEPreparation #BTech #EngineeringNotes #AlgorithmAnalysis #CompetitiveProgramming",
+  "hashtags": [
+    "#BigONotation",
+    "#Algorithms",
+    "#DataStructures",
+    "#ComputerScience",
+    "#Programming",
+    "#Coding",
+    "#GATEPreparation",
+    "#BTech",
+    "#EngineeringNotes",
+    "#AlgorithmAnalysis",
+    "#CompetitiveProgramming"
+  ],
+  "content_hash": "c2930ae0693a4be72cf633115739a85b4d7e4b0a04f56c9d61fda6e7d8be7204",
+  "created_at": "2026-10-16T13:40:00.117821+00:00",
+  "status": "draft"
+}

@@ -1,0 +1,10 @@
+Cracking the code of algorithm efficiency starts with Big O Notation! 🚀 This fundamental concept helps us understand how algorithms scale with input size, making it crucial for competitive programming, interviews, and building robust software.
+
+Swipe through these notes to master:
+✨ What Big O is and why it matters.
+✨ Formal definition and key rules.
+✨ A breakdown of common time complexities from O(1) to O(n!).
+
+Save this post for your next algorithm study session! 🔖 What's your favorite Big O complexity to optimize for? Let us know in the comments! 👇
+
+#BigONotation #Algorithms #DataStructures #ComputerScience #Programming #Coding #GATEPreparation #BTech #EngineeringNotes #AlgorithmAnalysis #CompetitiveProgramming
