@@ -1,0 +1,30 @@
+{
+  "post_id": 87,
+  "topic_id": "the-magic-of-gradient-descent:-how-ai-mo-28e3",
+  "topic": "The Magic of Gradient Descent: How AI Models Learn",
+  "category": "Data Science",
+  "title": "Unlocking AI's Brain: Gradient Descent Explained",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png"
+  ],
+  "caption": "Ever wondered how AI models learn? 🤔 It's all thanks to the magic of Gradient Descent! 🚀 This fundamental algorithm helps models find the best parameters by iteratively minimizing their errors. Think of it as walking downhill to find the lowest point in a valley! 📉 Swipe through to understand the Cost Function, Gradient, and the crucial Learning Rate. Master this, and you'll unlock the secret to how AI truly learns! ✨ Save this post for your next Data Science exam or interview! 🔖\n\n#GradientDescent #MachineLearning #DataScience #AI #DeepLearning #ComputerScience #BTech #EngineeringNotes #GATEPreparation #MLAlgorithms #BeginnerML #StudyNotes",
+  "hashtags": [
+    "#GradientDescent",
+    "#MachineLearning",
+    "#DataScience",
+    "#AI",
+    "#DeepLearning",
+    "#ComputerScience",
+    "#BTech",
+    "#EngineeringNotes",
+    "#GATEPreparation",
+    "#MLAlgorithms",
+    "#BeginnerML",
+    "#StudyNotes"
+  ],
+  "content_hash": "cbeb42449b522d8025b39d5cf8cad3cad2f7eb64ffe795a83b2a55aba24bfa2d",
+  "created_at": "2026-10-16T08:38:54.024902+00:00",
+  "status": "draft"
+}
