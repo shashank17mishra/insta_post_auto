@@ -1,0 +1,5 @@
+Cracking the code of Linear Regression! 📈 Dive into the basics of predicting continuous values with our latest Data Science notes. From understanding the core concept to mastering cost functions and evaluation metrics, we've got you covered. Perfect for B.Tech students, GATE aspirants, and anyone starting their ML journey! 🚀
+
+💡 What's your favorite part about Linear Regression? Let us know in the comments!
+
+#DataScience #MachineLearning #LinearRegression #MLBasics #PredictiveModeling #BTech #GATEPreparation #ComputerScience #EngineeringNotes #StudyNotes #AI #Statistics
