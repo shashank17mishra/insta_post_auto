@@ -1,0 +1,30 @@
+{
+  "post_id": 89,
+  "topic_id": "graph-traversal-basics:-breadth-first-se-31a1",
+  "topic": "Graph Traversal Basics: Breadth-First Search (BFS) and Depth-First Search (DFS)",
+  "category": "Algorithms",
+  "title": "GRAPH TRAVERSAL BASICS",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png",
+    "page_04.png"
+  ],
+  "caption": "Cracking graph algorithms starts with BFS & DFS! 🚀 These fundamental traversal techniques are crucial for competitive programming, university exams, and technical interviews. BFS explores level by level, perfect for shortest paths in unweighted graphs. DFS dives deep, ideal for cycle detection and topological sorting. Master their differences and applications! \n\n💡 Save this post for a quick revision before your next exam! \n\n#Algorithms #BFS #DFS #GraphTheory #ComputerScience #DataStructures #GATEPreparation #BTech #EngineeringNotes #CompetitiveProgramming #CSFundamentals",
+  "hashtags": [
+    "#Algorithms",
+    "#BFS",
+    "#DFS",
+    "#GraphTheory",
+    "#ComputerScience",
+    "#DataStructures",
+    "#GATEPreparation",
+    "#BTech",
+    "#EngineeringNotes",
+    "#CompetitiveProgramming",
+    "#CSFundamentals"
+  ],
+  "content_hash": "6bbfdb014fe419dcf835454aadd1ef7f15a9a417970e606aab821a83f327476e",
+  "created_at": "2026-10-17T08:10:26.571210+00:00",
+  "status": "draft"
+}
