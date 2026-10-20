@@ -1,0 +1,31 @@
+{
+  "post_id": 97,
+  "topic_id": "linear-regression-explained:-predicting--73e4",
+  "topic": "Linear Regression Explained: Predicting Trends with Simple Math",
+  "category": "Data Science",
+  "title": "LINEAR REGRESSION: The Basics",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png",
+    "page_04.png"
+  ],
+  "caption": "Cracking the code of Linear Regression! 📈 This fundamental algorithm is your gateway to predicting trends and understanding relationships in data. From sales forecasting to housing prices, it's everywhere! \n\nDive into our beginner-friendly notes covering definitions, the 'best fit' line, MSE, Gradient Descent, and crucial assumptions. Master these basics to build a strong foundation in Data Science! \n\nSave this post for your next exam or interview prep! 🔖 What's your favorite application of Linear Regression? Let us know in the comments! 👇\n\n#LinearRegression #DataScience #MachineLearning #Statistics #BeginnerML #PredictiveAnalytics #BTech #GATEPreparation #ComputerScience #EngineeringNotes #StudyNotes #AI",
+  "hashtags": [
+    "#LinearRegression",
+    "#DataScience",
+    "#MachineLearning",
+    "#Statistics",
+    "#BeginnerML",
+    "#PredictiveAnalytics",
+    "#BTech",
+    "#GATEPreparation",
+    "#ComputerScience",
+    "#EngineeringNotes",
+    "#StudyNotes",
+    "#AI"
+  ],
+  "content_hash": "4c8c2215182a125e363215ac5027f33876d3aeb95c06abe21dd92c232096bdd3",
+  "created_at": "2026-10-20T09:02:48.276193+00:00",
+  "status": "draft"
+}
