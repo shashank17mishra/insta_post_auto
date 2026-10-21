@@ -1,0 +1,29 @@
+{
+  "post_id": 100,
+  "topic_id": "binary-search-algorithm:-a-step-by-step--7bb2",
+  "topic": "Binary Search Algorithm: A Step-by-Step Guide to Efficient Searching",
+  "category": "Algorithms",
+  "title": "Binary Search Algorithm",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png"
+  ],
+  "caption": "Unlock the power of efficient searching with Binary Search! 🚀 This algorithm is a cornerstone of computer science, crucial for competitive programming, interviews, and understanding data structures.\n\nDive into our step-by-step guide covering its definition, how it works, complexity, and a Python implementation. Master the art of finding elements in O(log n) time!\n\nSave this post for your next coding challenge or exam prep! 🔖\n\n#BinarySearch #Algorithms #DataStructures #ComputerScience #Coding #Programming #Python #GATEPreparation #BTech #EngineeringNotes #TechEducation",
+  "hashtags": [
+    "#BinarySearch",
+    "#Algorithms",
+    "#DataStructures",
+    "#ComputerScience",
+    "#Coding",
+    "#Programming",
+    "#Python",
+    "#GATEPreparation",
+    "#BTech",
+    "#EngineeringNotes",
+    "#TechEducation"
+  ],
+  "content_hash": "1345d713f60720a161eca2b303a5c8117dfc8c17a0a2d5f748eeb1c872973c7e",
+  "created_at": "2026-10-21T19:03:57.328213+00:00",
+  "status": "draft"
+}
