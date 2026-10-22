@@ -1,0 +1,5 @@
+Unlock the power of Python's core data structures! 🚀 Lists, Tuples, Dictionaries, and Sets are your building blocks for efficient and organized code. Each has unique superpowers for handling data. Swipe through to master their differences and ace your next coding challenge! 
+
+Which one do you use the most? Let us know in the comments! 👇
+
+#Python #DataStructures #CodingTips #Programming #ComputerScience #BTech #GATEPreparation #PythonForBeginners #LearnToCode #TechNotes #StudyGram
