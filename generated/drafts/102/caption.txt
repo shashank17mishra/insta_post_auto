@@ -1,0 +1,3 @@
+Unlock the power of data with SQL! 🚀 Whether you're a beginner or brushing up, these notes cover the essentials of querying and managing relational databases. From `SELECT` statements to filtering with `WHERE` and ordering results, we've got you covered. Dive in and master the basics! ✨ Save this post for your next exam or interview prep! 🔖
+
+#SQL #DBMS #Database #DataScience #BeginnerSQL #ComputerScience #BTech #EngineeringNotes #GATEPreparation #SQLQueries #RelationalDatabase #TechNotes
