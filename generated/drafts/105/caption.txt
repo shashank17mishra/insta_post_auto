@@ -1,0 +1,9 @@
+Unlocking the secrets of Graph Traversal! 🚀 Ever wondered how Google Maps finds the shortest route or how social networks connect people? It's all thanks to algorithms like Breadth-First Search (BFS) and Depth-First Search (DFS)! 
+
+BFS explores level by level, perfect for finding the shortest path in unweighted graphs. DFS dives deep into one path before backtracking, ideal for maze solving and topological sorting. 
+
+Swipe through these notes to grasp their core concepts, algorithms, and complexities. Master these, and you're one step closer to acing your algorithms exams! ✨
+
+Save this post for your next study session! 🔖
+
+#Algorithms #BFS #DFS #GraphTheory #ComputerScience #DataStructures #BTech #GATEPreparation #EngineeringNotes #CSConcepts #CodingInterview

@@ -1,0 +1,30 @@
+{
+  "post_id": 105,
+  "topic_id": "exploring-graph-traversal:-breadth-first-9d4c",
+  "topic": "Exploring Graph Traversal: Breadth-First Search (BFS) and Depth-First Search (DFS) Explained",
+  "category": "Algorithms",
+  "title": "Graph Traversal: BFS & DFS",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png",
+    "page_04.png"
+  ],
+  "caption": "Unlocking the secrets of Graph Traversal! 🚀 Ever wondered how Google Maps finds the shortest route or how social networks connect people? It's all thanks to algorithms like Breadth-First Search (BFS) and Depth-First Search (DFS)! \n\nBFS explores level by level, perfect for finding the shortest path in unweighted graphs. DFS dives deep into one path before backtracking, ideal for maze solving and topological sorting. \n\nSwipe through these notes to grasp their core concepts, algorithms, and complexities. Master these, and you're one step closer to acing your algorithms exams! ✨\n\nSave this post for your next study session! 🔖\n\n#Algorithms #BFS #DFS #GraphTheory #ComputerScience #DataStructures #BTech #GATEPreparation #EngineeringNotes #CSConcepts #CodingInterview",
+  "hashtags": [
+    "#Algorithms",
+    "#BFS",
+    "#DFS",
+    "#GraphTheory",
+    "#ComputerScience",
+    "#DataStructures",
+    "#BTech",
+    "#GATEPreparation",
+    "#EngineeringNotes",
+    "#CSConcepts",
+    "#CodingInterview"
+  ],
+  "content_hash": "bdef40f0aed498f6a577a46e7d2555ed9b394f6487decb9fe260bd594aa78d86",
+  "created_at": "2026-10-23T18:50:34.960631+00:00",
+  "status": "draft"
+}
