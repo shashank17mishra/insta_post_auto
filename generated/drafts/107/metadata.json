@@ -1,0 +1,29 @@
+{
+  "post_id": 107,
+  "topic_id": "the-language-of-data:-fundamentals-of-py-1acf",
+  "topic": "The Language of Data: Fundamentals of Python for Data Science (Variables, Loops, Functions)",
+  "category": "Data Science",
+  "title": "Python Fundamentals for Data Science",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png"
+  ],
+  "caption": "Unlock the power of Python for Data Science! 🚀 Mastering variables, loops, and functions is your essential first step into the world of data. These fundamentals are the building blocks for everything from simple scripts to complex machine learning models.\n\n💡 Variables store your data, loops automate repetitive tasks, and functions make your code clean and reusable. Get these concepts down, and you're well on your way!\n\nSave this post for your next study session! 🔖 What's your favorite Python fundamental? Let us know in the comments! 👇\n#Python #DataScience #Programming #BeginnerPython #Coding #ComputerScience #BTech #EngineeringNotes #GATEPreparation #PythonForDS #LearnToCode",
+  "hashtags": [
+    "#Python",
+    "#DataScience",
+    "#Programming",
+    "#BeginnerPython",
+    "#Coding",
+    "#ComputerScience",
+    "#BTech",
+    "#EngineeringNotes",
+    "#GATEPreparation",
+    "#PythonForDS",
+    "#LearnToCode"
+  ],
+  "content_hash": "3005d60b8dacf0171e3ba5a454bee01d4b46b1df0714b9b34cc414745be98a6f",
+  "created_at": "2026-10-24T13:01:45.339484+00:00",
+  "status": "draft"
+}
