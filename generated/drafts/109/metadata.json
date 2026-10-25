@@ -1,0 +1,31 @@
+{
+  "post_id": 109,
+  "topic_id": "data-structures-101:-arrays,-linked-list-bea8",
+  "topic": "Data Structures 101: Arrays, Linked Lists, and Their Applications",
+  "category": "Computer Science",
+  "title": "Data Structures 101: Arrays & Linked Lists",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png",
+    "page_04.png"
+  ],
+  "caption": "Dive into the fundamentals of Data Structures with our quick guide on Arrays and Linked Lists! 🚀 Understanding these core concepts is crucial for any aspiring engineer or developer. From contiguous memory to dynamic nodes, we've broken down their characteristics, operations, and key differences.\n\n💡 Swipe to learn:\n✨ What are Data Structures?\n✨ Array basics, operations & applications\n✨ Linked List types, operations & applications\n✨ A clear comparison table!\n\nSave this post for your next exam or interview prep! 🔖 Which one do you find more intuitive? Let us know in the comments! 👇\n\n#DataStructures #Arrays #LinkedLists #ComputerScience #DSA #BTech #EngineeringNotes #GATEPreparation #PlacementPrep #CodingInterview #CSFundamentals #LearnToCode",
+  "hashtags": [
+    "#DataStructures",
+    "#Arrays",
+    "#LinkedLists",
+    "#ComputerScience",
+    "#DSA",
+    "#BTech",
+    "#EngineeringNotes",
+    "#GATEPreparation",
+    "#PlacementPrep",
+    "#CodingInterview",
+    "#CSFundamentals",
+    "#LearnToCode"
+  ],
+  "content_hash": "c804d2bc58d25b182566e4716225fc87231f61363a73244b4872e80e30a25c1b",
+  "created_at": "2026-10-25T08:51:44.586129+00:00",
+  "status": "draft"
+}
