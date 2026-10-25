@@ -1,0 +1,31 @@
+{
+  "post_id": 110,
+  "topic_id": "linear-algebra-fundamentals:-vectors,-ma-ab47",
+  "topic": "Linear Algebra Fundamentals: Vectors, Matrices, and Their Role in Data",
+  "category": "Mathematics",
+  "title": "Linear Algebra Fundamentals: Vectors & Matrices",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png",
+    "page_04.png"
+  ],
+  "caption": "Cracking Linear Algebra for Data Science! 📊 Dive into the fundamentals of Vectors and Matrices, the unsung heroes behind every ML algorithm. From representing data points to performing complex transformations, these concepts are your gateway to understanding AI. Swipe to master the basics! ✨\n\nWhat's your favorite Linear Algebra concept? Let us know below! 👇\n\n#LinearAlgebra #Vectors #Matrices #DataScience #MachineLearning #MathForML #ComputerScience #BTech #EngineeringNotes #GATEPreparation #StudyNotes #BeginnerFriendly",
+  "hashtags": [
+    "#LinearAlgebra",
+    "#Vectors",
+    "#Matrices",
+    "#DataScience",
+    "#MachineLearning",
+    "#MathForML",
+    "#ComputerScience",
+    "#BTech",
+    "#EngineeringNotes",
+    "#GATEPreparation",
+    "#StudyNotes",
+    "#BeginnerFriendly"
+  ],
+  "content_hash": "0e68c5ec048ae92f7144926526cdb420d44e9fb5568532ed22cf43363c7621ad",
+  "created_at": "2026-10-25T13:28:57.493994+00:00",
+  "status": "draft"
+}
