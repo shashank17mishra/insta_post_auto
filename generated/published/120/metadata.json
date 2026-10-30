@@ -1,0 +1,29 @@
+{
+  "post_id": 120,
+  "topic_id": "dynamic-programming:-mastering-overlappi-7c5a",
+  "topic": "Dynamic Programming: Mastering Overlapping Subproblems and Optimal Substructure",
+  "category": "Algorithms",
+  "title": "Mastering Dynamic Programming (DP)",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png"
+  ],
+  "caption": "Struggling with Dynamic Programming? 🤔 Don't worry, we've got you covered! DP is a fundamental technique in algorithms that can transform exponential time complexities into polynomial ones.\n\nThis post breaks down the core concepts:\n🌟 **Overlapping Subproblems:** When the same subproblems are computed multiple times.\n🚀 **Optimal Substructure:** When an optimal solution can be built from optimal subproblem solutions.\n\nWe also compare **Memoization (Top-Down)** and **Tabulation (Bottom-Up)** approaches with a classic example: the Fibonacci sequence!\n\nMastering DP is crucial for competitive programming, GATE, and technical interviews. Save this post to ace your next algorithms challenge! 🔖\n\n#DynamicProgramming #Algorithms #ComputerScience #DataStructures #DSA #CompetitiveProgramming #GATEPreparation #BTech #EngineeringNotes #TechInterview #Coding",
+  "hashtags": [
+    "#DynamicProgramming",
+    "#Algorithms",
+    "#ComputerScience",
+    "#DataStructures",
+    "#DSA",
+    "#CompetitiveProgramming",
+    "#GATEPreparation",
+    "#BTech",
+    "#EngineeringNotes",
+    "#TechInterview",
+    "#Coding"
+  ],
+  "content_hash": "7e8058af502791d0729c344304cac71a4d28ecc234322fa7943fab97fabd8daa",
+  "created_at": "2026-10-30T10:39:09.479516+00:00",
+  "status": "draft"
+}
