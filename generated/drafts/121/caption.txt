@@ -1,0 +1,14 @@
+Dive into the foundational world of Machine Learning with our quick guide on Linear Regression and Decision Trees! 🚀 Understanding these core models is crucial for any aspiring Data Scientist.
+
+Linear Regression predicts continuous values by finding the best-fit line, while Decision Trees make rule-based decisions through a tree structure. Each has its strengths and ideal use cases!
+
+Swipe to learn:
+✨ What they are & how they work
+✨ Key formulas & concepts
+✨ A handy comparison table!
+
+Which model do you find more intuitive? Let us know in the comments! 👇
+
+Save this post for your next ML interview or exam prep! 🔖
+
+#MachineLearning #DataScience #LinearRegression #DecisionTrees #MLModels #BeginnerML #AI #ComputerScience #BTech #GATEPreparation #DataAnalytics #StudyNotes
