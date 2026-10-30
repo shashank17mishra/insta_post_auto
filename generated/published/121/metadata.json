@@ -1,0 +1,30 @@
+{
+  "post_id": 121,
+  "topic_id": "from-linear-regression-to-decision-trees-2694",
+  "topic": "From Linear Regression to Decision Trees: A First Look at Core ML Models",
+  "category": "Data Science",
+  "title": "ML Fundamentals: Linear Regression & Decision Trees",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png"
+  ],
+  "caption": "Dive into the foundational world of Machine Learning with our quick guide on Linear Regression and Decision Trees! 🚀 Understanding these core models is crucial for any aspiring Data Scientist.\n\nLinear Regression predicts continuous values by finding the best-fit line, while Decision Trees make rule-based decisions through a tree structure. Each has its strengths and ideal use cases!\n\nSwipe to learn:\n✨ What they are & how they work\n✨ Key formulas & concepts\n✨ A handy comparison table!\n\nWhich model do you find more intuitive? Let us know in the comments! 👇\n\nSave this post for your next ML interview or exam prep! 🔖\n\n#MachineLearning #DataScience #LinearRegression #DecisionTrees #MLModels #BeginnerML #AI #ComputerScience #BTech #GATEPreparation #DataAnalytics #StudyNotes",
+  "hashtags": [
+    "#MachineLearning",
+    "#DataScience",
+    "#LinearRegression",
+    "#DecisionTrees",
+    "#MLModels",
+    "#BeginnerML",
+    "#AI",
+    "#ComputerScience",
+    "#BTech",
+    "#GATEPreparation",
+    "#DataAnalytics",
+    "#StudyNotes"
+  ],
+  "content_hash": "0a9faeb58c4254be7f3a32decf8e4bffdff19701a43339dfd986d0570abb5f5c",
+  "created_at": "2026-10-30T19:48:22.830083+00:00",
+  "status": "draft"
+}
