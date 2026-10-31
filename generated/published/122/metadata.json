@@ -1,0 +1,29 @@
+{
+  "post_id": 122,
+  "topic_id": "navigating-networks:-bfs,-dfs,-and-the-p-5755",
+  "topic": "Navigating Networks: BFS, DFS, and the Power of Graph Algorithms",
+  "category": "Algorithms",
+  "title": "Graph Traversal: BFS & DFS",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png"
+  ],
+  "caption": "Unraveling the mysteries of graph traversal! 🕸️ BFS and DFS are your go-to algorithms for navigating networks, finding paths, and exploring connections. From web crawlers to social networks, these techniques are everywhere! 🚀\n\n💡 BFS (Breadth-First Search) is like exploring a city block by block, finding the quickest route. DFS (Depth-First Search) is like diving deep into one street, then backtracking if it's a dead end.\n\nSave this post to ace your graph algorithm questions! 🔖 What's your favorite application of BFS or DFS? Let us know in the comments! 👇\n\n#Algorithms #BFS #DFS #GraphTheory #ComputerScience #DataStructures #GATEPreparation #BTech #EngineeringNotes #CodingInterview #TechEducation",
+  "hashtags": [
+    "#Algorithms",
+    "#BFS",
+    "#DFS",
+    "#GraphTheory",
+    "#ComputerScience",
+    "#DataStructures",
+    "#GATEPreparation",
+    "#BTech",
+    "#EngineeringNotes",
+    "#CodingInterview",
+    "#TechEducation"
+  ],
+  "content_hash": "3474271ccda2591d2c95a19eb7cf78e8d1e0d86995c7432e4f780c9befd74b70",
+  "created_at": "2026-10-31T10:05:03.049478+00:00",
+  "status": "draft"
+}
