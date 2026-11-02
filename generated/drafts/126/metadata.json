@@ -1,0 +1,31 @@
+{
+  "post_id": 126,
+  "topic_id": "introduction-to-neural-networks:-from-pe-b347",
+  "topic": "Introduction to Neural Networks: From Perceptrons to Deep Learning Basics",
+  "category": "Data Science",
+  "title": "Neural Networks: From Perceptrons to Deep Learning",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png",
+    "page_04.png"
+  ],
+  "caption": "Dive into the fascinating world of Neural Networks! 🧠 From the foundational Perceptron to the powerful concepts of Deep Learning, these notes cover the essential building blocks. Understand how these 'neurons' learn, make decisions, and power today's AI breakthroughs. Perfect for B.Tech students, GATE aspirants, and anyone curious about AI! \n\nSave this post for your next study session! 🔖\n\n#NeuralNetworks #DeepLearning #Perceptron #MachineLearning #DataScience #AI #ComputerScience #BTech #GATEPreparation #EngineeringNotes #StudyNotes #TechEducation",
+  "hashtags": [
+    "#NeuralNetworks",
+    "#DeepLearning",
+    "#Perceptron",
+    "#MachineLearning",
+    "#DataScience",
+    "#AI",
+    "#ComputerScience",
+    "#BTech",
+    "#GATEPreparation",
+    "#EngineeringNotes",
+    "#StudyNotes",
+    "#TechEducation"
+  ],
+  "content_hash": "5d60614e72508f01b39ee8f78a84c8a2609fd08a605c58116fe78975bc4d8808",
+  "created_at": "2026-11-02T11:54:18.397383+00:00",
+  "status": "draft"
+}
