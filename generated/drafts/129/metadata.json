@@ -1,0 +1,31 @@
+{
+  "post_id": 129,
+  "topic_id": "big-o-notation:-understanding-algorithm--fdea",
+  "topic": "Big O Notation: Understanding Algorithm Efficiency and Performance",
+  "category": "Algorithms",
+  "title": "Mastering Big O Notation",
+  "pages": [
+    "page_01.png",
+    "page_02.png",
+    "page_03.png",
+    "page_04.png"
+  ],
+  "caption": "Struggling with Big O Notation? 🤔 Don't worry, we've got you covered! This essential concept is key to understanding algorithm efficiency and acing your coding interviews. 🚀\n\nSwipe through these notes to master:\n✨ What Big O is and why it matters\n✨ Common complexities like O(1), O(n), O(n log n), O(n^2)\n✨ Simple rules for analyzing algorithm complexity\n✨ A practical example with Linear Search!\n\nSave this post for your next exam or coding challenge! 🔖 Let's make algorithm analysis crystal clear!\n\n#BigONotation #Algorithms #DataStructures #ComputerScience #CodingInterview #GATEPreparation #BTech #EngineeringNotes #AlgorithmAnalysis #Programming #CSConcepts #StudyNotes",
+  "hashtags": [
+    "#BigONotation",
+    "#Algorithms",
+    "#DataStructures",
+    "#ComputerScience",
+    "#CodingInterview",
+    "#GATEPreparation",
+    "#BTech",
+    "#EngineeringNotes",
+    "#AlgorithmAnalysis",
+    "#Programming",
+    "#CSConcepts",
+    "#StudyNotes"
+  ],
+  "content_hash": "921f84cc579bc2a8b8eda704a68d1969935609f01c1aabb9b22a9430354750c2",
+  "created_at": "2026-11-03T20:44:09.462257+00:00",
+  "status": "draft"
+}
