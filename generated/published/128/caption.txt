@@ -1,0 +1,3 @@
+Unlock the power of data! 🚀 Dive into the fundamentals of Relational Databases and SQL with these beginner-friendly notes. From designing your first table to querying data, we've got you covered. Master the basics for your exams and future projects! Save this for your upcoming exams! 🔖
+
+#SQL #DBMS #DatabaseDesign #ComputerScience #BTech #EngineeringNotes #GATEPreparation #PlacementPrep #DataScience #SQLBasics #LearnSQL #StudyNotes
